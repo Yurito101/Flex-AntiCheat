@@ -170,7 +170,7 @@ Forcefield:
     BackHitAccounting: true
     #What is the maximum distance before the hit is canceled?
     #Default: 4.4
-    MaxReach: 4.5
+    MaxReach: 3.5
     #Do you want to invisibly cancel the hit if the distance is above MaxReach?
     #Default: true
     SoftCancel: true
